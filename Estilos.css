@@ -1,0 +1,45 @@
+
+div#general{
+    margin: auto;
+    margin-top: 10px;
+    width: 1870px;
+    height: 1990px;
+    background-color: rgb(172, 221, 221);
+}
+div#header{
+    width: 1870px;
+    height: 100px;
+    background-color: rgb(231, 84, 84);
+    text-align: center;
+    font-size: xx-large;
+}
+div#nav{
+    float: right;
+    width: 1870px;
+    height: 20px;
+    background-color: aliceblue;
+    text-align: right;
+}
+div#redes{
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    float: right;
+    margin: 20px;
+}
+div#section{
+    margin-top: 200px;
+    width: 1700px;
+    height: 2800;
+    background-color: beige;
+    margin: 20px;
+    text-align: justify;
+    text-align: center;
+    font-size: x-large;
+}
+div#footer{
+    background-color: azure;
+    font-size: x-large;
+    height: 50px;
+}
